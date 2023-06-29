@@ -6,7 +6,7 @@ This repository contains data available and explanations of them for the article
 
 Larger files are deposited on [Zenodo](https://zenodo.org/record/8047514) and referenced correspondingly here.  
 
-The repository for EvoDOCK (The software used to run all the simulations) are found on: https://github.com/Andre-lab/evodockcubic.  
+The repository for EvoDOCK (The software used to run all the simulations) are found on: https://github.com/Andre-lab/evodock.  
 
 The repository also explains how to set up all the necessary input files as well as how to run the simulations as done in the article. 
 
